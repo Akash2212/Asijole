@@ -21,7 +21,7 @@ PushNotification.configure({
         })
 
     },
-    senderID: "853314511472",
+    senderID: "162022891473",
 
     popInitialNotification: true,
     requestPermissions: true

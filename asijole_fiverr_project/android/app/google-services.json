@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "853314511472",
-    "project_id": "asijole-431b4",
-    "storage_bucket": "asijole-431b4.appspot.com"
+    "project_number": "162022891473",
+    "project_id": "asijole-app",
+    "storage_bucket": "asijole-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:853314511472:android:125baf89feca47e3940ab5",
+        "mobilesdk_app_id": "1:162022891473:android:cdf33fed9317e5050f0af0",
         "android_client_info": {
-          "package_name": "com.asijole_fiverr_proj"
+          "package_name": "com.asijole_fiverr_project"
         }
       },
       "oauth_client": [
         {
-          "client_id": "853314511472-rtbkra9fgtm6k6gkjh0eols2vomlf53v.apps.googleusercontent.com",
+          "client_id": "162022891473-47bbnmc0ul6btuh9sgvl40aqp47oro31.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAHo25Y3sGAAmiXIzZ45ojethrgzKMLisE"
+          "current_key": "AIzaSyCp6oBp_OKODJ9j5bHh3VDfchH-2gxPloU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "853314511472-rtbkra9fgtm6k6gkjh0eols2vomlf53v.apps.googleusercontent.com",
+              "client_id": "162022891473-47bbnmc0ul6btuh9sgvl40aqp47oro31.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
